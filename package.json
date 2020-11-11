@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Typescript course",
+  "main": "index.js",
+  "scripts": {
+    "hello-world": "tsc --outFile dist/hello-world.js sections/section01/hello-world.ts && node dist/hello-world.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andrew4d3/typescript-maxi-course.git"
+  },
+  "keywords": [
+    "course",
+    "typescript"
+  ],
+  "author": "Andrew4d3",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Andrew4d3/typescript-maxi-course/issues"
+  },
+  "homepage": "https://github.com/Andrew4d3/typescript-maxi-course#readme"
+}
