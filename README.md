@@ -24,3 +24,14 @@ Personal notes for course: "Understanding TypeScript - 2020 Edition" by Maximili
 -  [Function Types & Callbacks](/sections/section02/callbacks.ts)
 -  [The "unknown" type](/sections/section02/unknown.ts)
 -  [The "never" type](/sections/section02/never.ts)
+
+## Section 3
+
+-  [Using "Watch Mode"](/sections/section03/watch.ts)
+-  [Compiling the Entire Project / Multiple Files](/sections/section03/init/explanation.md)
+-  [Including & Excluding Files](/sections/section03/fileoptions/explanation.md)
+-  [Setting a Compilation Target](/sections/section03/target/example.ts)
+-  [Understanding TypeScript Core Libs](/sections/section03/lib.md)
+-  [Working with Source Maps](/sections/section03/source/example.ts)
+-  [rootDir and outDir](/sections/section03/dir/explanation.md)
+-  [Stop Emitting Files on Compilation Errors](/sections/section03/noemit.md)

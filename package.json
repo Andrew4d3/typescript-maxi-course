@@ -4,12 +4,19 @@
   "description": "Typescript course",
   "main": "index.js",
   "scripts": {
+    "start": "node dist/app.js",
     "chap1:hello-world": "tsc --outFile dist/hello-world.js sections/section01/hello-world.ts && node dist/hello-world.js",
     "chap2:types01": "tsc --outFile dist/app.js sections/section02/types01.ts && node dist/app.js",
     "chap2:enums": "tsc --outFile dist/app.js sections/section02/enums.ts && node dist/app.js",
     "chap2:union": "tsc --outFile dist/app.js sections/section02/union.ts && node dist/app.js",
     "chap2:function-types": "tsc --outFile dist/app.js sections/section02/function-types.ts && node dist/app.js",
-    "chap2:callbacks": "tsc --outFile dist/app.js sections/section02/callbacks.ts && node dist/app.js"
+    "chap2:callbacks": "tsc --outFile dist/app.js sections/section02/callbacks.ts && node dist/app.js",
+    "chap3:watch": "tsc --outFile dist/app.js --watch sections/section03/watch.ts",
+    "chap3:init": "cd sections/section03/init && tsc --outDir dist/ --watch",
+    "chap3:fileoptions": "cd sections/section03/fileoptions && tsc --outDir dist/ --watch",
+    "chap3:target": "cd sections/section03/target && tsc --outDir dist/",
+    "chap3:source": "cd sections/section03/source && tsc --outDir dist/",
+    "chap3:dir": "cd sections/section03/dir && tsc"
   },
   "repository": {
     "type": "git",
