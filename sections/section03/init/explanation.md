@@ -14,6 +14,6 @@ $ tsc
 
 # We can also use the watch mode
 
-$ tsc --flag
+$ tsc --watch
 
 ```
