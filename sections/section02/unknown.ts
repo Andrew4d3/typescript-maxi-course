@@ -5,5 +5,5 @@ foo2 = 5;
 foo2 = true;
 foo2 = {};
 
-// The may difference with "any" is that we can assign an unknown value to a variable using a specific data type
+// The may difference with "any" is that we can't assign an unknown value to a variable using a specific data type
 // let bar3: string = foo2; // Error!
