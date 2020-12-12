@@ -35,3 +35,7 @@ Personal notes for course: "Understanding TypeScript - 2020 Edition" by Maximili
 -  [Working with Source Maps](/sections/section03/source/example.ts)
 -  [rootDir and outDir](/sections/section03/dir/explanation.md)
 -  [Stop Emitting Files on Compilation Errors](/sections/section03/noemit.md)
+
+## Section 4
+
+-  [Rest Parameters](/sections/section04/rest.ts)
