@@ -16,7 +16,14 @@
     "chap3:fileoptions": "cd sections/section03/fileoptions && tsc --outDir dist/ --watch",
     "chap3:target": "cd sections/section03/target && tsc --outDir dist/",
     "chap3:source": "cd sections/section03/source && tsc --outDir dist/",
-    "chap3:dir": "cd sections/section03/dir && tsc"
+    "chap3:dir": "cd sections/section03/dir && tsc",
+    "chap5:basic": "cd sections/section05/basic && tsc && node dist/basic.js",
+    "chap5:methods": "cd sections/section05/methods && tsc && node dist/main.js",
+    "chap5:private": "cd sections/section05/private && tsc && node dist/main.js",
+    "chap5:shorthand": "cd sections/section05/shorthand && tsc && node dist/main.js",
+    "chap5:readonly": "cd sections/section05/readonly && tsc",
+    "chap5:inheritance": "cd sections/section05/inheritance && tsc && node dist/main.js",
+    "chap5:protected": "cd sections/section05/protected && tsc && node dist/main.js"
   },
   "repository": {
     "type": "git",

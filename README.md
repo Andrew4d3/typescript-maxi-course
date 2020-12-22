@@ -39,3 +39,12 @@ Personal notes for course: "Understanding TypeScript - 2020 Edition" by Maximili
 ## Section 4
 
 -  [Rest Parameters](/sections/section04/rest.ts)
+
+## Section 5
+
+-  [Creating a First Class](/sections/section05/basic/basic.ts)
+-  [The "this" keyword](/sections/section05/methods/main.ts)
+-  ["private" and "public" Access Modifiers](/sections/section05/private/main.ts)
+-  [Shorthand Initialization](/sections/section05/shorthand/main.ts)
+-  [Inheritance](/sections/section05/inheritance/main.ts)
+-  [Overriding Properties & The "protected" Modifier](/sections/section05/protected/main.ts)
