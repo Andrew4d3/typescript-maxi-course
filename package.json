@@ -23,7 +23,17 @@
     "chap5:shorthand": "cd sections/section05/shorthand && tsc && node dist/main.js",
     "chap5:readonly": "cd sections/section05/readonly && tsc",
     "chap5:inheritance": "cd sections/section05/inheritance && tsc && node dist/main.js",
-    "chap5:protected": "cd sections/section05/protected && tsc && node dist/main.js"
+    "chap5:protected": "cd sections/section05/protected && tsc && node dist/main.js",
+    "chap5:getset": "cd sections/section05/getset && tsc && node dist/main.js",
+    "chap5:static": "cd sections/section05/static && tsc && node dist/main.js",
+    "chap5:abstract": "cd sections/section05/abstract && tsc && node dist/main.js",
+    "chap5:singleton": "cd sections/section05/singleton && tsc && node dist/main.js",
+    "chap5:interface": "cd sections/section05/interface && tsc && node dist/main.js",
+    "chap5:intvstype": "cd sections/section05/intvstype && tsc && node dist/main.js",
+    "chap5:whyinterface": "cd sections/section05/whyinterface && tsc && node dist/main.js",
+    "chap5:readonlyinter": "cd sections/section05/readonlyinter && tsc && node dist/main.js",
+    "chap5:combineinter": "cd sections/section05/combineinter && tsc && node dist/main.js",
+    "chap5:optionalprop": "cd sections/section05/optionalprop && tsc && node dist/main.js"
   },
   "repository": {
     "type": "git",
