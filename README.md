@@ -59,3 +59,9 @@ Personal notes for course: "Understanding TypeScript - 2020 Edition" by Maximili
 -  [Extending Interfaces](/sections/section05/combineinter/main.ts)
 -  [Interfaces as Function Types](/sections/section05/interfacefn/main.ts)
 -  [Optional Parameters & Properties](/sections/section05/optionalprop/main.ts)
+
+## Section 6
+
+-  [Intersection Types](/sections/section06/intersections/main.ts)
+-  [More on Type Guards](/sections/section06/guards/main.ts)
+-  [Discriminated Unions](/sections/section06/disc/main.ts)

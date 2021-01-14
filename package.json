@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node dist/app.js",
+    "anki:chap5": "markdown-to-anki sections/section05/anki.md > anki.txt",
     "chap1:hello-world": "tsc --outFile dist/hello-world.js sections/section01/hello-world.ts && node dist/hello-world.js",
     "chap2:types01": "tsc --outFile dist/app.js sections/section02/types01.ts && node dist/app.js",
     "chap2:enums": "tsc --outFile dist/app.js sections/section02/enums.ts && node dist/app.js",
@@ -33,7 +34,10 @@
     "chap5:whyinterface": "cd sections/section05/whyinterface && tsc && node dist/main.js",
     "chap5:readonlyinter": "cd sections/section05/readonlyinter && tsc && node dist/main.js",
     "chap5:combineinter": "cd sections/section05/combineinter && tsc && node dist/main.js",
-    "chap5:optionalprop": "cd sections/section05/optionalprop && tsc && node dist/main.js"
+    "chap5:optionalprop": "cd sections/section05/optionalprop && tsc && node dist/main.js",
+    "chap6:intersection": "cd sections/section06/intersection && tsc && node dist/main.js",
+    "chap6:guards": "cd sections/section06/guards && tsc && node dist/main.js",
+    "chap6:disc": "cd sections/section06/disc && tsc && node dist/main.js"
   },
   "repository": {
     "type": "git",
@@ -48,5 +52,8 @@
   "bugs": {
     "url": "https://github.com/Andrew4d3/typescript-maxi-course/issues"
   },
-  "homepage": "https://github.com/Andrew4d3/typescript-maxi-course#readme"
+  "homepage": "https://github.com/Andrew4d3/typescript-maxi-course#readme",
+  "dependencies": {
+    "markdown-to-anki": "^0.2.3"
+  }
 }

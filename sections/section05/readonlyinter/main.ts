@@ -1,4 +1,4 @@
-// You can use public, private or protected accessor with intefaces
+// You can't use public, private or protected accessors with intefaces
 // But you can define readonly properties
 interface Person {
    readonly name: string;
