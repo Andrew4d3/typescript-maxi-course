@@ -65,3 +65,6 @@ Personal notes for course: "Understanding TypeScript - 2020 Edition" by Maximili
 -  [Intersection Types](/sections/section06/intersections/main.ts)
 -  [More on Type Guards](/sections/section06/guards/main.ts)
 -  [Discriminated Unions](/sections/section06/disc/main.ts)
+-  [Type Casting](/sections/section06/casting/main.ts)
+-  [Index Properties](/sections/section06/index/main.ts)
+-  [Function Overloads](/sections/section06/overloads/main.ts)
