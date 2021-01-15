@@ -68,3 +68,5 @@ Personal notes for course: "Understanding TypeScript - 2020 Edition" by Maximili
 -  [Type Casting](/sections/section06/casting/main.ts)
 -  [Index Properties](/sections/section06/index/main.ts)
 -  [Function Overloads](/sections/section06/overloads/main.ts)
+-  [Optional Chaining](/sections/section06/chaining/main.ts)
+-  [Nullish Coalescing](/sections/section06/nullish/main.ts)

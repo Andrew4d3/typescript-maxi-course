@@ -40,7 +40,9 @@
     "chap6:disc": "cd sections/section06/disc && tsc && node dist/main.js",
     "chap6:casting": "cd sections/section06/casting && tsc && node dist/main.js",
     "chap6:index": "cd sections/section06/index && tsc && node dist/main.js",
-    "chap6:overloads": "cd sections/section06/overloads && tsc && node dist/main.js"
+    "chap6:overloads": "cd sections/section06/overloads && tsc && node dist/main.js",
+    "chap6:chaining": "cd sections/section06/chaining && tsc && node dist/main.js",
+    "chap6:nullish": "cd sections/section06/nullish && tsc && node dist/main.js"
   },
   "repository": {
     "type": "git",
