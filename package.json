@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node dist/app.js",
     "anki:chap5": "markdown-to-anki sections/section05/anki.md > anki.txt",
+    "anki:chap6": "markdown-to-anki sections/section06/anki.md > anki.txt",
     "chap1:hello-world": "tsc --outFile dist/hello-world.js sections/section01/hello-world.ts && node dist/hello-world.js",
     "chap2:types01": "tsc --outFile dist/app.js sections/section02/types01.ts && node dist/app.js",
     "chap2:enums": "tsc --outFile dist/app.js sections/section02/enums.ts && node dist/app.js",
