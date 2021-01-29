@@ -43,7 +43,10 @@
     "chap6:index": "cd sections/section06/index && tsc && node dist/main.js",
     "chap6:overloads": "cd sections/section06/overloads && tsc && node dist/main.js",
     "chap6:chaining": "cd sections/section06/chaining && tsc && node dist/main.js",
-    "chap6:nullish": "cd sections/section06/nullish && tsc && node dist/main.js"
+    "chap6:nullish": "cd sections/section06/nullish && tsc && node dist/main.js",
+    "chap7:native": "cd sections/section07/native && tsc && node dist/main.js",
+    "chap7:functions": "cd sections/section07/functions && tsc && node dist/main.js",
+    "chap7:constraints": "cd sections/section07/constraints && tsc && node dist/main.js"
   },
   "repository": {
     "type": "git",

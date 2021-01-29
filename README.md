@@ -70,3 +70,9 @@ Personal notes for course: "Understanding TypeScript - 2020 Edition" by Maximili
 -  [Function Overloads](/sections/section06/overloads/main.ts)
 -  [Optional Chaining](/sections/section06/chaining/main.ts)
 -  [Nullish Coalescing](/sections/section06/nullish/main.ts)
+
+## Section 7
+
+-  [Built-in Generics & What are Generics?](/sections/section07/native/main.ts)
+-  [Creating a Generic Function](/sections/section07/functions/main.ts)
+-  [Working with Constraints](/sections/section07/constraints/main.ts)
