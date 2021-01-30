@@ -76,3 +76,6 @@ Personal notes for course: "Understanding TypeScript - 2020 Edition" by Maximili
 -  [Built-in Generics & What are Generics?](/sections/section07/native/main.ts)
 -  [Creating a Generic Function](/sections/section07/functions/main.ts)
 -  [Working with Constraints](/sections/section07/constraints/main.ts)
+-  [Another Generic Function](/sections/section07/functions2/main.ts)
+-  [The "keyof" Constraint](/sections/section07/keyof/main.ts)
+-  [Generic Classes](/sections/section07/keyof/main.ts)

@@ -46,7 +46,10 @@
     "chap6:nullish": "cd sections/section06/nullish && tsc && node dist/main.js",
     "chap7:native": "cd sections/section07/native && tsc && node dist/main.js",
     "chap7:functions": "cd sections/section07/functions && tsc && node dist/main.js",
-    "chap7:constraints": "cd sections/section07/constraints && tsc && node dist/main.js"
+    "chap7:constraints": "cd sections/section07/constraints && tsc && node dist/main.js",
+    "chap7:functions2": "cd sections/section07/functions2 && tsc && node dist/main.js",
+    "chap7:keyof": "cd sections/section07/keyof && tsc && node dist/main.js",
+    "chap7:classes": "cd sections/section07/classes && tsc && node dist/main.js"
   },
   "repository": {
     "type": "git",
