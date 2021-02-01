@@ -49,7 +49,9 @@
     "chap7:constraints": "cd sections/section07/constraints && tsc && node dist/main.js",
     "chap7:functions2": "cd sections/section07/functions2 && tsc && node dist/main.js",
     "chap7:keyof": "cd sections/section07/keyof && tsc && node dist/main.js",
-    "chap7:classes": "cd sections/section07/classes && tsc && node dist/main.js"
+    "chap7:classes": "cd sections/section07/classes && tsc && node dist/main.js",
+    "chap7:utility": "cd sections/section07/utility && tsc && node dist/main.js",
+    "chap7:vsunion": "cd sections/section07/vsunion && tsc && node dist/main.js"
   },
   "repository": {
     "type": "git",
