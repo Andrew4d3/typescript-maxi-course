@@ -78,6 +78,6 @@ Personal notes for course: "Understanding TypeScript - 2020 Edition" by Maximili
 -  [Working with Constraints](/sections/section07/constraints/main.ts)
 -  [Another Generic Function](/sections/section07/functions2/main.ts)
 -  [The "keyof" Constraint](/sections/section07/keyof/main.ts)
--  [Generic Classes](/sections/section07/keyof/main.ts)
+-  [Generic Classes](/sections/section07/classes/main.ts)
 -  [Generic Utility Types](/sections/section07/utility/main.ts)
 -  [Generic Types vs Union Types](/sections/section07/vsunion/main.ts)
