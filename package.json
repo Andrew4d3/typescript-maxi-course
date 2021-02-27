@@ -52,7 +52,16 @@
     "chap7:keyof": "cd sections/section07/keyof && tsc && node dist/main.js",
     "chap7:classes": "cd sections/section07/classes && tsc && node dist/main.js",
     "chap7:utility": "cd sections/section07/utility && tsc && node dist/main.js",
-    "chap7:vsunion": "cd sections/section07/vsunion && tsc && node dist/main.js"
+    "chap7:vsunion": "cd sections/section07/vsunion && tsc && node dist/main.js",
+    "chap8:first": "cd sections/section08/first && tsc && node dist/main.js",
+    "chap8:params": "cd sections/section08/params && tsc && node dist/main.js",
+    "chap8:constructor": "cd sections/section08/constructor && tsc && node dist/main.js",
+    "chap8:multiple": "cd sections/section08/multiple && tsc && node dist/main.js",
+    "chap8:property": "cd sections/section08/property && tsc && node dist/main.js",
+    "chap8:methods": "cd sections/section08/methods && tsc && node dist/main.js",
+    "chap8:execution": "cd sections/section08/execution && tsc && node dist/main.js",
+    "chap8:autobind": "cd sections/section08/autobind && tsc && node dist/main.js",
+    "chap8:validator": "cd sections/section08/validator && tsc && node dist/main.js"
   },
   "repository": {
     "type": "git",
@@ -69,6 +78,7 @@
   },
   "homepage": "https://github.com/Andrew4d3/typescript-maxi-course#readme",
   "dependencies": {
+    "@types/node": "^14.14.31",
     "markdown-to-anki": "^0.2.3"
   }
 }

@@ -81,3 +81,15 @@ Personal notes for course: "Understanding TypeScript - 2020 Edition" by Maximili
 -  [Generic Classes](/sections/section07/classes/main.ts)
 -  [Generic Utility Types](/sections/section07/utility/main.ts)
 -  [Generic Types vs Union Types](/sections/section07/vsunion/main.ts)
+
+## Section 8
+
+-  [A first class Decorator](/sections/section08/first/main.ts)
+-  [Working with Decorator Factories](/sections/section08/params/main.ts)
+-  [Building More Useful Decorators](/sections/section08/constructor/main.ts)
+-  [Adding Multiple Decorators](/sections/section08/multiple/main.ts)
+-  [Diving into Property Decorators](/sections/section08/property/main.ts)
+-  [Accessor & Parameter Decorators](/sections/section08/methods/main.ts)
+-  [When Do Decorators Execute?](/sections/section08/execution/main.ts)
+-  [Example: Creating an "Autobind" Decorator](/sections/section08/autobind/main.ts)
+-  [Validation with Decorators](/sections/section08/validator/main.ts)
