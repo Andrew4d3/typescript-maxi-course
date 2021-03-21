@@ -62,7 +62,10 @@
     "chap8:methods": "cd sections/section08/methods && tsc && node dist/main.js",
     "chap8:execution": "cd sections/section08/execution && tsc && node dist/main.js",
     "chap8:autobind": "cd sections/section08/autobind && tsc && node dist/main.js",
-    "chap8:validator": "cd sections/section08/validator && tsc && node dist/main.js"
+    "chap8:validator": "cd sections/section08/validator && tsc && node dist/main.js",
+    "chap10:namespace": "cd sections/section10/namespace && tsc && node dist/bundle.js",
+    "chap10:module": "cd sections/section10/module && tsc && node dist/main.js",
+    "chap10:group": "cd sections/section10/group && tsc && node dist/main.js"
   },
   "repository": {
     "type": "git",

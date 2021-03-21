@@ -93,3 +93,13 @@ Personal notes for course: "Understanding TypeScript - 2020 Edition" by Maximili
 -  [When Do Decorators Execute?](/sections/section08/execution/main.ts)
 -  [Example: Creating an "Autobind" Decorator](/sections/section08/autobind/main.ts)
 -  [Validation with Decorators](/sections/section08/validator/main.ts)
+
+## Section 9
+
+> Skipped
+
+## Section 10
+
+-  [Working with Namespaces](/sections/section10/namespace/main.ts)
+-  [Using ES Modules](/sections/section10/module/main.ts)
+-  [Understanding various Import & Export Syntaxes](/sections/section10/module/main.ts)
