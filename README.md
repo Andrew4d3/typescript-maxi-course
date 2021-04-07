@@ -103,3 +103,7 @@ Personal notes for course: "Understanding TypeScript - 2020 Edition" by Maximili
 -  [Working with Namespaces](/sections/section10/namespace/main.ts)
 -  [Using ES Modules](/sections/section10/module/main.ts)
 -  [Understanding various Import & Export Syntaxes](/sections/section10/module/main.ts)
+
+## Section 11
+
+-  [Mini Project](/sections/section11/anki.md)

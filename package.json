@@ -9,6 +9,7 @@
     "anki:chap6": "markdown-to-anki sections/section06/anki.md > anki.txt",
     "anki:chap7": "markdown-to-anki sections/section07/anki.md > anki.txt",
     "anki:chap8": "markdown-to-anki sections/section08/anki.md > anki.txt",
+    "anki:chap10": "markdown-to-anki sections/section10/anki.md > anki.txt",
     "chap1:hello-world": "tsc --outFile dist/hello-world.js sections/section01/hello-world.ts && node dist/hello-world.js",
     "chap2:types01": "tsc --outFile dist/app.js sections/section02/types01.ts && node dist/app.js",
     "chap2:enums": "tsc --outFile dist/app.js sections/section02/enums.ts && node dist/app.js",

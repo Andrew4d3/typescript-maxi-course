@@ -44,13 +44,14 @@ Which TS syntax should we use to refer namespaces across multiple source files?
 
 ---
 
-This one:
+This syntax:
 
 ```
 /// <reference path="file.ts" />
 ```
 
-[Code]
+-  [Main](https://github.com/Andrew4d3/typescript-maxi-course/blob/main/sections/section10/namespace/main.ts)
+-  [Calulator](https://github.com/Andrew4d3/typescript-maxi-course/blob/main/sections/section10/namespace/calculator.ts)
 
 ===
 
@@ -60,7 +61,7 @@ What's the problem with namespaces, and what alternative do we have?
 
 The problem is that we don't get any type-safety, and the alteranive is to use ES modules.
 
-[Code]
+[Code](https://github.com/Andrew4d3/typescript-maxi-course/blob/main/sections/section10/module/main.ts)
 
 ===
 
@@ -71,4 +72,4 @@ List of ways to import elements in TS (it works the same in JS)
 -  Using the "\*" operator to export everything
 -  Not using curly brackets to export the default element
 
-[Code]
+[Code](https://github.com/Andrew4d3/typescript-maxi-course/blob/main/sections/section10/group/main.ts)
