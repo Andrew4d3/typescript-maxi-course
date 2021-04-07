@@ -17,6 +17,8 @@ What dev-dependencies should we install to use Webpack with TS? (5) (Explain eac
 -  typescript: the TS compiler
 -  ts-loader: Webpack loaders can transform files from a different language ( TypeScript) to JavaScript. This will use the typescript dependency.
 
+[Code](https://github.com/Andrew4d3/typescript-maxi-course/blob/main/sections/section11/package.json#L14-L18)
+
 ===
 
 What 5 things do we need to set in our tsconfig file when using webpack?
@@ -29,7 +31,7 @@ What 5 things do we need to set in our tsconfig file when using webpack?
 -  rootDir: does not need to be set because webpack will take care of this.
 -  sourceMap: should be "true" to allow easy debugging.
 
-[Code]()
+[Code](https://github.com/Andrew4d3/typescript-maxi-course/blob/main/sections/section11/tsconfig.json)
 
 ===
 
@@ -43,7 +45,7 @@ What properties should we set in the webpack config file when using TS? (5)
 -  module: to indicate the rules that our ts-loader should consider
 -  resolve: to indicate the files the webpack builder should resolve
 
-[Code]()
+[Code](https://github.com/Andrew4d3/typescript-maxi-course/blob/main/sections/section11/webpack.config.js)
 
 ===
 
@@ -53,7 +55,7 @@ What webpack options do we need to set for starting a dev server with TS?
 
 We need to set the `devServer` options. That includes the `publicPath` option where we need to indicate the bundle file path.
 
-[Code]()
+[Code](https://github.com/Andrew4d3/typescript-maxi-course/blob/main/sections/section11/webpack.config.js#L14)
 
 ===
 
@@ -61,7 +63,7 @@ Steps for setting a webpack workflow for production (4)
 
 ---
 
--  Install the clean-webpack-plugin dependency
+-  Install the clean-webpack-plugin dependency [Code](https://github.com/Andrew4d3/typescript-maxi-course/blob/main/sections/section11/package.json#L13)
 -  Create a separate config file for production
--  Change the configurations accordingly. [Code]()
--  Create a new npm command for creating the production build. [Code]()
+-  Change the configurations accordingly. [Code](https://github.com/Andrew4d3/typescript-maxi-course/blob/main/sections/section11/webpack.config.prod.js)
+-  Create a new npm command for creating the production build. [Code](https://github.com/Andrew4d3/typescript-maxi-course/blob/main/sections/section11/package.json#L8)
