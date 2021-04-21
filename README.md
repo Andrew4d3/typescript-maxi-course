@@ -107,3 +107,10 @@ Personal notes for course: "Understanding TypeScript - 2020 Edition" by Maximili
 ## Section 11
 
 -  [Mini Project](/sections/section11/anki.md)
+
+## Section 12
+
+-  [Using JavaScript (!) Libraries with TypeScript](/sections/section12/types/main.ts)
+-  [Using "declare" as a "Last Resort"](/sections/section12/declare/main.ts)
+-  [No Types Needed: class-transformer](/sections/section12/transformer/main.ts)
+-  [TypeScript-embracing: class-validator](/sections/section12/validator/main.ts)

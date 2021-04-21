@@ -67,7 +67,11 @@
     "chap8:validator": "cd sections/section08/validator && tsc && node dist/main.js",
     "chap10:namespace": "cd sections/section10/namespace && tsc && node dist/bundle.js",
     "chap10:module": "cd sections/section10/module && tsc && node dist/main.js",
-    "chap10:group": "cd sections/section10/group && tsc && node dist/main.js"
+    "chap10:group": "cd sections/section10/group && tsc && node dist/main.js",
+    "chap12:types": "cd sections/section12/types && tsc && node dist/main.js",
+    "chap12:declare": "cd sections/section12/declare && tsc && node dist/main.js",
+    "chap12:transformer": "cd sections/section12/transformer && tsc && node dist/main.js",
+    "chap12:validator": "cd sections/section12/validator && tsc && node dist/main.js"
   },
   "repository": {
     "type": "git",
@@ -85,6 +89,14 @@
   "homepage": "https://github.com/Andrew4d3/typescript-maxi-course#readme",
   "dependencies": {
     "@types/node": "^14.14.31",
-    "markdown-to-anki": "^0.2.3"
+    "class-transformer": "^0.4.0",
+    "class-validator": "^0.13.1",
+    "dpacl": "^1.1.0",
+    "lodash": "^4.17.21",
+    "markdown-to-anki": "^0.2.3",
+    "reflect-metadata": "^0.1.13"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.168"
   }
 }
