@@ -114,3 +114,11 @@ Personal notes for course: "Understanding TypeScript - 2020 Edition" by Maximili
 -  [Using "declare" as a "Last Resort"](/sections/section12/declare/main.ts)
 -  [No Types Needed: class-transformer](/sections/section12/transformer/main.ts)
 -  [TypeScript-embracing: class-validator](/sections/section12/validator/main.ts)
+
+## Section 13
+
+> Skipped
+
+## Section 14
+
+-  [Mini Project](/sections/section14/anki.md)

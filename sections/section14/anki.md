@@ -14,9 +14,9 @@ What do we have to do with React component when we want to declare what type the
 
 ---
 
-We need to use Generics
+We need to use Generics in the component declaration
 
-[Code]()
+[Code](https://github.com/Andrew4d3/typescript-maxi-course/blob/main/sections/section14/src/components/TodoList.tsx#L8)
 
 ===
 
@@ -30,7 +30,7 @@ We use generics on this way (example)
 const myRef = useRef<HTMLInputElement>(initialValue);
 ```
 
-[Code]()
+[Code](https://github.com/Andrew4d3/typescript-maxi-course/blob/main/sections/section14/src/components/NewTodo.tsx#L9)
 
 ===
 
@@ -44,4 +44,4 @@ Using Generics, like this:
 const [todos, setTodos] = useState<Todo[]>(todoList);
 ```
 
-[Code]()
+[Code](https://github.com/Andrew4d3/typescript-maxi-course/blob/main/sections/section14/src/App.tsx#L17)
