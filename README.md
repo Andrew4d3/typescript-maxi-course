@@ -122,3 +122,7 @@ Personal notes for course: "Understanding TypeScript - 2020 Edition" by Maximili
 ## Section 14
 
 -  [Mini Project](/sections/section14/anki.md)
+
+## Section 15
+
+-  [Mini Project](/sections/section15/anki.md)
